@@ -2,6 +2,8 @@
 
 This is a mmWave prescense sensor based on the LD2410B sensor, primarily for use in Home Assistant.
 
+![Minion for scale](images/minionforscale.png)
+
 ## Parts needed
 
 Model | Link
